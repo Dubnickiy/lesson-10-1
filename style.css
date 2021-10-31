@@ -1,5 +1,9 @@
 *{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Miso', sans-serif; 
+}
+@font-face {
+    font-family: Miso;
+    src: url(Miso.ttf);
 }
 .main{
     
@@ -61,32 +65,31 @@ body{
 }
 .left>h2{
    align-self: center;
-    padding-top: 32px;
     font-size: 35px; 
     margin-bottom: 0;
 }
 .left-text{
    width: 161px;
     align-self: center;
-    padding-top: 9px;
-    font-size: 18px;
+    font-size: 26px;
     margin-bottom: 0;
+    margin-top: -14px;
 }
 .left-text-text{
     align-self: center;
-    margin-top: 7px;
+    margin-top: -20px;
+    font-size: 26px;
 }
 .center>h2{
     align-self: center;
-    padding-top: 41px;
     font-size: 35px; 
     margin-bottom: 0;
 }
 .right>h2{
    align-self: center;
-    padding-top: 29px;
-    font-size: 35px; 
+    font-size: 41px; 
     margin-bottom: 0;
+    margin-top: 19px;
 }
 .center-dolar{
     align-self: center;
@@ -111,13 +114,14 @@ body{
 .center-text{
    width: 161px;
     align-self: center;
-    padding-top: 9px;
-    font-size: 18px;
+    font-size: 26px;
     margin-bottom: 0;
+    margin-top: -14px;
 }
 .center-text-text{
     align-self: center;
     margin-top: 7px;
+    font-size: 26px;
 }
 .right-dolar{
     align-self: center;
@@ -142,11 +146,12 @@ body{
 .right-text{
    width: 161px;
     align-self: center;
-    padding-top: 9px;
-    font-size: 18px;
+    font-size: 26px;
     margin-bottom: 0;
+    margin-top: -23px;
 }
 .right-text-text{
     align-self: center;
-    margin-top: 7px;
+    font-size: 26px;
+    margin-top: -14px;
 }
